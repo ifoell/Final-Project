@@ -1,0 +1,35 @@
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+.first-line{
+  text-indent: 50px;
+}
+
+.logogo{
+  width: 6%;
+  height: 6%;
+}
+
+p {
+  line-height: 2rem;
+  text-align: justify;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
